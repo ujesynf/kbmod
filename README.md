@@ -8,7 +8,7 @@ The program relies on audio directories from kbsim's Github page as the code ins
 
 ## How do I set this up?
 
-- Download the source file
+- Download the source file by cloning the repository
 - Open a new terminal window inside of the main directory [named 'kbmod'] and run:
 
 ```sh
